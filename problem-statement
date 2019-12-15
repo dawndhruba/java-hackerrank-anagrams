@@ -1,0 +1,17 @@
+Two strings, A and B, are called anagrams if they contain all the same characters in the same frequencies. For example, the anagrams of CAT are CAT, ACT, TAC, TCA, ATC, and CTA.
+
+If  and  are case-insensitive anagrams, print "Anagrams"; otherwise, print "Not Anagrams" instead.
+
+Input Format -
+The first line contains a string denoting A.
+The second line contains a string denoting B.
+
+Constraints -
+1 <= length(A), leangth(B) <= 50
+String A and B consists of english alphabatic characters.
+The comparison should not be case sensitive.
+Strings  and  consist of English alphabetic characters.
+The comparison should NOT be case sensitive.
+
+Output Format-
+Print "Anagrams" if A and B are case-insensitive anagrams of each other; otherwise, print "Not Anagrams" instead.
